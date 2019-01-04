@@ -1,0 +1,1535 @@
+==:1
+1. FastqtoBam
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.68
+	Maximum resident set size (kbytes): 78548
+	Minor (reclaiming a frame) page faults: 15535
+2. AttachBarcodes
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:06.05
+	Maximum resident set size (kbytes): 4200128
+	Minor (reclaiming a frame) page faults: 1377845
+3. MergeSortBamFiles
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.57
+	Maximum resident set size (kbytes): 98448
+	Minor (reclaiming a frame) page faults: 20529
+4. SplitBamByCellBarcode
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.12
+	Maximum resident set size (kbytes): 77684
+	Minor (reclaiming a frame) page faults: 17733
+5. StarAlignedBamSingleEnd
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:34.00
+	Maximum resident set size (kbytes): 13249968
+	Minor (reclaiming a frame) page faults: 3345527
+6. TagGenes
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:02.12
+	Maximum resident set size (kbytes): 2663056
+	Minor (reclaiming a frame) page faults: 690157
+7. SortAndCorrectUmiMarkDuplicates
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.71
+	Maximum resident set size (kbytes): 85572
+	Minor (reclaiming a frame) page faults: 17270
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.84
+	Maximum resident set size (kbytes): 99976
+	Minor (reclaiming a frame) page faults: 21076
+8. GeneSortBam
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.66
+	Maximum resident set size (kbytes): 77600
+	Minor (reclaiming a frame) page faults: 17579
+9. CellSortBam
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.16
+	Maximum resident set size (kbytes): 77616
+	Minor (reclaiming a frame) page faults: 17574
+10. CalculateGeneMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.20
+	Maximum resident set size (kbytes): 77144
+	Minor (reclaiming a frame) page faults: 17626
+11. CalculateCellMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.24
+	Maximum resident set size (kbytes): 76960
+	Minor (reclaiming a frame) page faults: 17478
+12. CreateSparseCountMatrix
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:26.62
+	Maximum resident set size (kbytes): 85724
+	Minor (reclaiming a frame) page faults: 35757
+13. MergeSortedBamFiles
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.70
+	Maximum resident set size (kbytes): 105448
+	Minor (reclaiming a frame) page faults: 22865
+14. MergeGeneMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.48
+	Maximum resident set size (kbytes): 78580
+	Minor (reclaiming a frame) page faults: 27807
+15. MergeCellMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.15
+	Maximum resident set size (kbytes): 80760
+	Minor (reclaiming a frame) page faults: 28693
+16. MergeCountFiles
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.12
+	Maximum resident set size (kbytes): 78380
+	Minor (reclaiming a frame) page faults: 18960
+==:2
+1. FastqtoBam
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.67
+	Maximum resident set size (kbytes): 80752
+	Minor (reclaiming a frame) page faults: 16218
+2. AttachBarcodes
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:05.34
+	Maximum resident set size (kbytes): 4199352
+	Minor (reclaiming a frame) page faults: 1378062
+3. MergeSortBamFiles
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.61
+	Maximum resident set size (kbytes): 106688
+	Minor (reclaiming a frame) page faults: 22562
+4. SplitBamByCellBarcode
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.09
+	Maximum resident set size (kbytes): 77020
+	Minor (reclaiming a frame) page faults: 17691
+5. StarAlignedBamSingleEnd
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:30.62
+	Maximum resident set size (kbytes): 13250360
+	Minor (reclaiming a frame) page faults: 3345814
+6. TagGenes
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:56.56
+	Maximum resident set size (kbytes): 2674504
+	Minor (reclaiming a frame) page faults: 699427
+7. SortAndCorrectUmiMarkDuplicates
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.71
+	Maximum resident set size (kbytes): 92580
+	Minor (reclaiming a frame) page faults: 19241
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.95
+	Maximum resident set size (kbytes): 117920
+	Minor (reclaiming a frame) page faults: 27276
+8. GeneSortBam
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:03.24
+	Maximum resident set size (kbytes): 77972
+	Minor (reclaiming a frame) page faults: 17599
+9. CellSortBam
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.16
+	Maximum resident set size (kbytes): 77964
+	Minor (reclaiming a frame) page faults: 17726
+10. CalculateGeneMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.25
+	Maximum resident set size (kbytes): 77668
+	Minor (reclaiming a frame) page faults: 17660
+11. CalculateCellMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.31
+	Maximum resident set size (kbytes): 77016
+	Minor (reclaiming a frame) page faults: 17629
+12. CreateSparseCountMatrix
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:26.68
+	Maximum resident set size (kbytes): 84972
+	Minor (reclaiming a frame) page faults: 44206
+13. MergeSortedBamFiles
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.68
+	Maximum resident set size (kbytes): 112756
+	Minor (reclaiming a frame) page faults: 24653
+14. MergeGeneMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.17
+	Maximum resident set size (kbytes): 78868
+	Minor (reclaiming a frame) page faults: 27908
+15. MergeCellMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.21
+	Maximum resident set size (kbytes): 84272
+	Minor (reclaiming a frame) page faults: 29877
+16. MergeCountFiles
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.15
+	Maximum resident set size (kbytes): 78624
+	Minor (reclaiming a frame) page faults: 18989
+==:4
+1. FastqtoBam
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.84
+	Maximum resident set size (kbytes): 86612
+	Minor (reclaiming a frame) page faults: 17681
+2. AttachBarcodes
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:07.01
+	Maximum resident set size (kbytes): 4200192
+	Minor (reclaiming a frame) page faults: 1378101
+3. MergeSortBamFiles
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.70
+	Maximum resident set size (kbytes): 107100
+	Minor (reclaiming a frame) page faults: 22807
+4. SplitBamByCellBarcode
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.14
+	Maximum resident set size (kbytes): 77452
+	Minor (reclaiming a frame) page faults: 17552
+5. StarAlignedBamSingleEnd
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:26.15
+	Maximum resident set size (kbytes): 13251104
+	Minor (reclaiming a frame) page faults: 3346329
+6. TagGenes
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:00.51
+	Maximum resident set size (kbytes): 2666244
+	Minor (reclaiming a frame) page faults: 691165
+7. SortAndCorrectUmiMarkDuplicates
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.78
+	Maximum resident set size (kbytes): 98860
+	Minor (reclaiming a frame) page faults: 20916
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.05
+	Maximum resident set size (kbytes): 126132
+	Minor (reclaiming a frame) page faults: 28737
+8. GeneSortBam
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.25
+	Maximum resident set size (kbytes): 81224
+	Minor (reclaiming a frame) page faults: 18375
+9. CellSortBam
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.24
+	Maximum resident set size (kbytes): 81060
+	Minor (reclaiming a frame) page faults: 18481
+10. CalculateGeneMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.31
+	Maximum resident set size (kbytes): 77200
+	Minor (reclaiming a frame) page faults: 17739
+11. CalculateCellMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.53
+	Maximum resident set size (kbytes): 76996
+	Minor (reclaiming a frame) page faults: 17664
+12. CreateSparseCountMatrix
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:27.53
+	Maximum resident set size (kbytes): 85364
+	Minor (reclaiming a frame) page faults: 23405
+13. MergeSortedBamFiles
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.70
+	Maximum resident set size (kbytes): 119104
+	Minor (reclaiming a frame) page faults: 26453
+14. MergeGeneMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.18
+	Maximum resident set size (kbytes): 78768
+	Minor (reclaiming a frame) page faults: 28255
+15. MergeCellMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.28
+	Maximum resident set size (kbytes): 89468
+	Minor (reclaiming a frame) page faults: 31831
+16. MergeCountFiles
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.06
+	Maximum resident set size (kbytes): 78944
+	Minor (reclaiming a frame) page faults: 18898
+==:8
+1. FastqtoBam
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.74
+	Maximum resident set size (kbytes): 96220
+	Minor (reclaiming a frame) page faults: 20192
+2. AttachBarcodes
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:04.32
+	Maximum resident set size (kbytes): 4199800
+	Minor (reclaiming a frame) page faults: 1378030
+3. MergeSortBamFiles
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.72
+	Maximum resident set size (kbytes): 115672
+	Minor (reclaiming a frame) page faults: 24808
+4. SplitBamByCellBarcode
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.19
+	Maximum resident set size (kbytes): 77220
+	Minor (reclaiming a frame) page faults: 17657
+5. StarAlignedBamSingleEnd
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:25.14
+	Maximum resident set size (kbytes): 13252656
+	Minor (reclaiming a frame) page faults: 3347432
+6. TagGenes
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:54.05
+	Maximum resident set size (kbytes): 2582436
+	Minor (reclaiming a frame) page faults: 677489
+7. SortAndCorrectUmiMarkDuplicates
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.88
+	Maximum resident set size (kbytes): 122436
+	Minor (reclaiming a frame) page faults: 26853
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.37
+	Maximum resident set size (kbytes): 160556
+	Minor (reclaiming a frame) page faults: 36935
+8. GeneSortBam
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.43
+	Maximum resident set size (kbytes): 86440
+	Minor (reclaiming a frame) page faults: 19717
+9. CellSortBam
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.50
+	Maximum resident set size (kbytes): 85564
+	Minor (reclaiming a frame) page faults: 19680
+10. CalculateGeneMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.60
+	Maximum resident set size (kbytes): 77428
+	Minor (reclaiming a frame) page faults: 17766
+11. CalculateCellMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:02.03
+	Maximum resident set size (kbytes): 76888
+	Minor (reclaiming a frame) page faults: 17456
+12. CreateSparseCountMatrix
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:31.63
+	Maximum resident set size (kbytes): 88560
+	Minor (reclaiming a frame) page faults: 44898
+13. MergeSortedBamFiles
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.83
+	Maximum resident set size (kbytes): 133052
+	Minor (reclaiming a frame) page faults: 29893
+14. MergeGeneMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.26
+	Maximum resident set size (kbytes): 78916
+	Minor (reclaiming a frame) page faults: 28272
+15. MergeCellMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.50
+	Maximum resident set size (kbytes): 93732
+	Minor (reclaiming a frame) page faults: 35717
+16. MergeCountFiles
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.13
+	Maximum resident set size (kbytes): 79560
+	Minor (reclaiming a frame) page faults: 18933
+==:16
+1. FastqtoBam
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.83
+	Maximum resident set size (kbytes): 118088
+	Minor (reclaiming a frame) page faults: 26371
+2. AttachBarcodes
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:06.82
+	Maximum resident set size (kbytes): 4199956
+	Minor (reclaiming a frame) page faults: 1378207
+3. MergeSortBamFiles
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.88
+	Maximum resident set size (kbytes): 138356
+	Minor (reclaiming a frame) page faults: 31415
+4. SplitBamByCellBarcode
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.29
+	Maximum resident set size (kbytes): 78596
+	Minor (reclaiming a frame) page faults: 18032
+5. StarAlignedBamSingleEnd
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:33.94
+	Maximum resident set size (kbytes): 13255724
+	Minor (reclaiming a frame) page faults: 3349595
+6. TagGenes
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:03.19
+	Maximum resident set size (kbytes): 2642680
+	Minor (reclaiming a frame) page faults: 694855
+7. SortAndCorrectUmiMarkDuplicates
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.99
+	Maximum resident set size (kbytes): 150328
+	Minor (reclaiming a frame) page faults: 35669
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.85
+	Maximum resident set size (kbytes): 241468
+	Minor (reclaiming a frame) page faults: 63105
+8. GeneSortBam
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:03.95
+	Maximum resident set size (kbytes): 96468
+	Minor (reclaiming a frame) page faults: 22238
+9. CellSortBam
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.70
+	Maximum resident set size (kbytes): 95916
+	Minor (reclaiming a frame) page faults: 22285
+10. CalculateGeneMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.98
+	Maximum resident set size (kbytes): 77536
+	Minor (reclaiming a frame) page faults: 17761
+11. CalculateCellMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:02.96
+	Maximum resident set size (kbytes): 76668
+	Minor (reclaiming a frame) page faults: 17614
+12. CreateSparseCountMatrix
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:27.02
+	Maximum resident set size (kbytes): 92280
+	Minor (reclaiming a frame) page faults: 42173
+13. MergeSortedBamFiles
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.93
+	Maximum resident set size (kbytes): 168500
+	Minor (reclaiming a frame) page faults: 39022
+14. MergeGeneMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.26
+	Maximum resident set size (kbytes): 79156
+	Minor (reclaiming a frame) page faults: 28234
+15. MergeCellMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.87
+	Maximum resident set size (kbytes): 101100
+	Minor (reclaiming a frame) page faults: 39529
+16. MergeCountFiles
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.18
+	Maximum resident set size (kbytes): 80720
+	Minor (reclaiming a frame) page faults: 19558
+==:32
+1. FastqtoBam
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.10
+	Maximum resident set size (kbytes): 135532
+	Minor (reclaiming a frame) page faults: 30411
+2. AttachBarcodes
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:05.66
+	Maximum resident set size (kbytes): 4199592
+	Minor (reclaiming a frame) page faults: 1377935
+3. MergeSortBamFiles
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.03
+	Maximum resident set size (kbytes): 170800
+	Minor (reclaiming a frame) page faults: 40288
+4. SplitBamByCellBarcode
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.53
+	Maximum resident set size (kbytes): 81840
+	Minor (reclaiming a frame) page faults: 18908
+5. StarAlignedBamSingleEnd
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:28.43
+	Maximum resident set size (kbytes): 13261880
+	Minor (reclaiming a frame) page faults: 3353923
+6. TagGenes
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:04.34
+	Maximum resident set size (kbytes): 2646004
+	Minor (reclaiming a frame) page faults: 692611
+7. SortAndCorrectUmiMarkDuplicates
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:02.23
+	Maximum resident set size (kbytes): 247132
+	Minor (reclaiming a frame) page faults: 60582
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:02.84
+	Maximum resident set size (kbytes): 305580
+	Minor (reclaiming a frame) page faults: 76769
+8. GeneSortBam
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:09.46
+	Maximum resident set size (kbytes): 116412
+	Minor (reclaiming a frame) page faults: 27865
+9. CellSortBam
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:02.45
+	Maximum resident set size (kbytes): 116712
+	Minor (reclaiming a frame) page faults: 27599
+10. CalculateGeneMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:02.84
+	Maximum resident set size (kbytes): 78728
+	Minor (reclaiming a frame) page faults: 17790
+11. CalculateCellMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:05.12
+	Maximum resident set size (kbytes): 77292
+	Minor (reclaiming a frame) page faults: 17632
+12. CreateSparseCountMatrix
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:27.21
+	Maximum resident set size (kbytes): 101568
+	Minor (reclaiming a frame) page faults: 27263
+13. MergeSortedBamFiles
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.20
+	Maximum resident set size (kbytes): 215928
+	Minor (reclaiming a frame) page faults: 51700
+14. MergeGeneMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.43
+	Maximum resident set size (kbytes): 79140
+	Minor (reclaiming a frame) page faults: 28202
+15. MergeCellMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:02.39
+	Maximum resident set size (kbytes): 111368
+	Minor (reclaiming a frame) page faults: 42380
+16. MergeCountFiles
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.29
+	Maximum resident set size (kbytes): 82888
+	Minor (reclaiming a frame) page faults: 19985
+==:64
+1. FastqtoBam
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.48
+	Maximum resident set size (kbytes): 169164
+	Minor (reclaiming a frame) page faults: 41078
+2. AttachBarcodes
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:04.10
+	Maximum resident set size (kbytes): 4199752
+	Minor (reclaiming a frame) page faults: 1377910
+3. MergeSortBamFiles
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.25
+	Maximum resident set size (kbytes): 232644
+	Minor (reclaiming a frame) page faults: 56729
+4. SplitBamByCellBarcode
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.96
+	Maximum resident set size (kbytes): 86776
+	Minor (reclaiming a frame) page faults: 20648
+5. StarAlignedBamSingleEnd
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:26.86
+	Maximum resident set size (kbytes): 13274172
+	Minor (reclaiming a frame) page faults: 3362567
+6. TagGenes
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:58.92
+	Maximum resident set size (kbytes): 2683724
+	Minor (reclaiming a frame) page faults: 707190
+7. SortAndCorrectUmiMarkDuplicates
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.91
+	Maximum resident set size (kbytes): 351716
+	Minor (reclaiming a frame) page faults: 87755
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:04.15
+	Maximum resident set size (kbytes): 486444
+	Minor (reclaiming a frame) page faults: 121509
+8. GeneSortBam
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:02.89
+	Maximum resident set size (kbytes): 158224
+	Minor (reclaiming a frame) page faults: 38193
+9. CellSortBam
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:03.62
+	Maximum resident set size (kbytes): 158360
+	Minor (reclaiming a frame) page faults: 38045
+10. CalculateGeneMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:04.39
+	Maximum resident set size (kbytes): 80200
+	Minor (reclaiming a frame) page faults: 18441
+11. CalculateCellMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:08.16
+	Maximum resident set size (kbytes): 77532
+	Minor (reclaiming a frame) page faults: 17714
+12. CreateSparseCountMatrix
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:27.12
+	Maximum resident set size (kbytes): 117336
+	Minor (reclaiming a frame) page faults: 51624
+13. MergeSortedBamFiles
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.35
+	Maximum resident set size (kbytes): 321896
+	Minor (reclaiming a frame) page faults: 80221
+14. MergeGeneMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.12
+	Maximum resident set size (kbytes): 78716
+	Minor (reclaiming a frame) page faults: 28249
+15. MergeCellMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:03.55
+	Maximum resident set size (kbytes): 130988
+	Minor (reclaiming a frame) page faults: 47839
+16. MergeCountFiles
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.20
+	Maximum resident set size (kbytes): 87216
+	Minor (reclaiming a frame) page faults: 21009
+==:128
+1. FastqtoBam
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.84
+	Maximum resident set size (kbytes): 175896
+	Minor (reclaiming a frame) page faults: 42834
+2. AttachBarcodes
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:06.12
+	Maximum resident set size (kbytes): 4199744
+	Minor (reclaiming a frame) page faults: 1378154
+3. MergeSortBamFiles
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.69
+	Maximum resident set size (kbytes): 315800
+	Minor (reclaiming a frame) page faults: 77861
+4. SplitBamByCellBarcode
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:02.76
+	Maximum resident set size (kbytes): 98380
+	Minor (reclaiming a frame) page faults: 23980
+5. StarAlignedBamSingleEnd
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:31.59
+	Maximum resident set size (kbytes): 13298816
+	Minor (reclaiming a frame) page faults: 3379958
+6. TagGenes
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:57.38
+	Maximum resident set size (kbytes): 2641920
+	Minor (reclaiming a frame) page faults: 694359
+7. SortAndCorrectUmiMarkDuplicates
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:02.82
+	Maximum resident set size (kbytes): 413696
+	Minor (reclaiming a frame) page faults: 102358
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:08.05
+	Maximum resident set size (kbytes): 682512
+	Minor (reclaiming a frame) page faults: 184145
+8. GeneSortBam
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:06.30
+	Maximum resident set size (kbytes): 242500
+	Minor (reclaiming a frame) page faults: 58968
+9. CellSortBam
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:06.39
+	Maximum resident set size (kbytes): 242612
+	Minor (reclaiming a frame) page faults: 59100
+10. CalculateGeneMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:07.73
+	Maximum resident set size (kbytes): 85064
+	Minor (reclaiming a frame) page faults: 19634
+11. CalculateCellMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:15.13
+	Maximum resident set size (kbytes): 77376
+	Minor (reclaiming a frame) page faults: 17739
+12. CreateSparseCountMatrix
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:28.01
+	Maximum resident set size (kbytes): 151420
+	Minor (reclaiming a frame) page faults: 64132
+13. MergeSortedBamFiles
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:02.06
+	Maximum resident set size (kbytes): 494084
+	Minor (reclaiming a frame) page faults: 122476
+14. MergeGeneMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.24
+	Maximum resident set size (kbytes): 79124
+	Minor (reclaiming a frame) page faults: 28178
+15. MergeCellMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:06.08
+	Maximum resident set size (kbytes): 169364
+	Minor (reclaiming a frame) page faults: 63217
+16. MergeCountFiles
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.25
+	Maximum resident set size (kbytes): 96380
+	Minor (reclaiming a frame) page faults: 23288
+==:256
+1. FastqtoBam
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:02.86
+	Maximum resident set size (kbytes): 175664
+	Minor (reclaiming a frame) page faults: 42838
+2. AttachBarcodes
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:09.23
+	Maximum resident set size (kbytes): 4199832
+	Minor (reclaiming a frame) page faults: 1377924
+3. MergeSortBamFiles
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:02.68
+	Maximum resident set size (kbytes): 511592
+	Minor (reclaiming a frame) page faults: 126681
+4. SplitBamByCellBarcode
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:04.34
+	Maximum resident set size (kbytes): 120084
+	Minor (reclaiming a frame) page faults: 30928
+5. StarAlignedBamSingleEnd
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:36.81
+	Maximum resident set size (kbytes): 13309644
+	Minor (reclaiming a frame) page faults: 3405020
+6. TagGenes
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:12.61
+	Maximum resident set size (kbytes): 2688716
+	Minor (reclaiming a frame) page faults: 698828
+7. SortAndCorrectUmiMarkDuplicates
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:08.69
+	Maximum resident set size (kbytes): 845960
+	Minor (reclaiming a frame) page faults: 220187
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:16.39
+	Maximum resident set size (kbytes): 1209404
+	Minor (reclaiming a frame) page faults: 315309
+8. GeneSortBam
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:15.01
+	Maximum resident set size (kbytes): 409100
+	Minor (reclaiming a frame) page faults: 101188
+9. CellSortBam
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:12.05
+	Maximum resident set size (kbytes): 410264
+	Minor (reclaiming a frame) page faults: 101096
+10. CalculateGeneMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:14.30
+	Maximum resident set size (kbytes): 94888
+	Minor (reclaiming a frame) page faults: 22175
+11. CalculateCellMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:29.34
+	Maximum resident set size (kbytes): 77652
+	Minor (reclaiming a frame) page faults: 17710
+12. CreateSparseCountMatrix
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:30.02
+	Maximum resident set size (kbytes): 217996
+	Minor (reclaiming a frame) page faults: 84820
+13. MergeSortedBamFiles
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:02.76
+	Maximum resident set size (kbytes): 875812
+	Minor (reclaiming a frame) page faults: 218264
+14. MergeGeneMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.50
+	Maximum resident set size (kbytes): 79304
+	Minor (reclaiming a frame) page faults: 28230
+15. MergeCellMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:10.98
+	Maximum resident set size (kbytes): 256424
+	Minor (reclaiming a frame) page faults: 101752
+16. MergeCountFiles
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.49
+	Maximum resident set size (kbytes): 113688
+	Minor (reclaiming a frame) page faults: 28499
+==:512
+1. FastqtoBam
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:04.78
+	Maximum resident set size (kbytes): 174788
+	Minor (reclaiming a frame) page faults: 44506
+2. AttachBarcodes
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:20.64
+	Maximum resident set size (kbytes): 4200168
+	Minor (reclaiming a frame) page faults: 1377933
+3. MergeSortBamFiles
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:07.89
+	Maximum resident set size (kbytes): 878840
+	Minor (reclaiming a frame) page faults: 219690
+4. SplitBamByCellBarcode
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:07.88
+	Maximum resident set size (kbytes): 165072
+	Minor (reclaiming a frame) page faults: 44724
+5. StarAlignedBamSingleEnd
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:56.36
+	Maximum resident set size (kbytes): 13309644
+	Minor (reclaiming a frame) page faults: 3449847
+6. TagGenes
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:08.87
+	Maximum resident set size (kbytes): 2692888
+	Minor (reclaiming a frame) page faults: 720874
+7. SortAndCorrectUmiMarkDuplicates
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:16.70
+	Maximum resident set size (kbytes): 1809724
+	Minor (reclaiming a frame) page faults: 468078
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:40.81
+	Maximum resident set size (kbytes): 2706240
+	Minor (reclaiming a frame) page faults: 696070
+8. GeneSortBam
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:14.54
+	Maximum resident set size (kbytes): 745516
+	Minor (reclaiming a frame) page faults: 185645
+9. CellSortBam
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:23.43
+	Maximum resident set size (kbytes): 745356
+	Minor (reclaiming a frame) page faults: 185369
+10. CalculateGeneMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:27.63
+	Maximum resident set size (kbytes): 114172
+	Minor (reclaiming a frame) page faults: 27345
+11. CalculateCellMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:58.86
+	Maximum resident set size (kbytes): 77016
+	Minor (reclaiming a frame) page faults: 17454
+12. CreateSparseCountMatrix
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:32.94
+	Maximum resident set size (kbytes): 351124
+	Minor (reclaiming a frame) page faults: 125326
+13. MergeSortedBamFiles
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:04.34
+	Maximum resident set size (kbytes): 1626572
+	Minor (reclaiming a frame) page faults: 405972
+14. MergeGeneMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.19
+	Maximum resident set size (kbytes): 79516
+	Minor (reclaiming a frame) page faults: 28190
+15. MergeCellMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:21.07
+	Maximum resident set size (kbytes): 413768
+	Minor (reclaiming a frame) page faults: 164578
+16. MergeCountFiles
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.99
+	Maximum resident set size (kbytes): 149100
+	Minor (reclaiming a frame) page faults: 37528
+==:1024
+1. FastqtoBam
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:08.77
+	Maximum resident set size (kbytes): 175348
+	Minor (reclaiming a frame) page faults: 43907
+2. AttachBarcodes
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:33.12
+	Maximum resident set size (kbytes): 4199540
+	Minor (reclaiming a frame) page faults: 1377734
+3. MergeSortBamFiles
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:08.07
+	Maximum resident set size (kbytes): 1636712
+	Minor (reclaiming a frame) page faults: 409419
+4. SplitBamByCellBarcode
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:14.85
+	Maximum resident set size (kbytes): 230980
+	Minor (reclaiming a frame) page faults: 62635
+5. StarAlignedBamSingleEnd
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:16.81
+	Maximum resident set size (kbytes): 13309648
+	Minor (reclaiming a frame) page faults: 3539481
+6. TagGenes
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:25.12
+	Maximum resident set size (kbytes): 2684112
+	Minor (reclaiming a frame) page faults: 708859
+7. SortAndCorrectUmiMarkDuplicates
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:24.57
+	Maximum resident set size (kbytes): 2833032
+	Minor (reclaiming a frame) page faults: 723310
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:26.33
+	Maximum resident set size (kbytes): 4117612
+	Minor (reclaiming a frame) page faults: 1064105
+8. GeneSortBam
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:30.28
+	Maximum resident set size (kbytes): 1414456
+	Minor (reclaiming a frame) page faults: 353448
+9. CellSortBam
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:44.53
+	Maximum resident set size (kbytes): 1414892
+	Minor (reclaiming a frame) page faults: 354740
+10. CalculateGeneMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:54.76
+	Maximum resident set size (kbytes): 151796
+	Minor (reclaiming a frame) page faults: 38161
+11. CalculateCellMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:42.23
+	Maximum resident set size (kbytes): 78036
+	Minor (reclaiming a frame) page faults: 17711
+12. CreateSparseCountMatrix
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:38.72
+	Maximum resident set size (kbytes): 569316
+	Minor (reclaiming a frame) page faults: 193637
+13. MergeSortedBamFiles
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:07.48
+	Maximum resident set size (kbytes): 1870912
+	Minor (reclaiming a frame) page faults: 468822
+14. MergeGeneMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.14
+	Maximum resident set size (kbytes): 79124
+	Minor (reclaiming a frame) page faults: 28231
+15. MergeCellMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:29.08
+	Maximum resident set size (kbytes): 580056
+	Minor (reclaiming a frame) page faults: 205396
+16. MergeCountFiles
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:02.40
+	Maximum resident set size (kbytes): 187444
+	Minor (reclaiming a frame) page faults: 47801
+==:2048
+1. FastqtoBam
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:16.74
+	Maximum resident set size (kbytes): 175280
+	Minor (reclaiming a frame) page faults: 44242
+2. AttachBarcodes
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 2:05.46
+	Maximum resident set size (kbytes): 4200116
+	Minor (reclaiming a frame) page faults: 1377786
+3. MergeSortBamFiles
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:15.26
+	Maximum resident set size (kbytes): 1864364
+	Minor (reclaiming a frame) page faults: 467047
+4. SplitBamByCellBarcode
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:26.98
+	Maximum resident set size (kbytes): 231856
+	Minor (reclaiming a frame) page faults: 62607
+5. StarAlignedBamSingleEnd
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 2:10.15
+	Maximum resident set size (kbytes): 13309644
+	Minor (reclaiming a frame) page faults: 3719254
+6. TagGenes
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:45.01
+	Maximum resident set size (kbytes): 2691260
+	Minor (reclaiming a frame) page faults: 713092
+7. SortAndCorrectUmiMarkDuplicates
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:48.34
+	Maximum resident set size (kbytes): 3250740
+	Minor (reclaiming a frame) page faults: 837331
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:58.43
+	Maximum resident set size (kbytes): 4560404
+	Minor (reclaiming a frame) page faults: 1213924
+8. GeneSortBam
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:58.12
+	Maximum resident set size (kbytes): 2753952
+	Minor (reclaiming a frame) page faults: 691698
+9. CellSortBam
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:27.44
+	Maximum resident set size (kbytes): 2754832
+	Minor (reclaiming a frame) page faults: 691291
+10. CalculateGeneMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:49.52
+	Maximum resident set size (kbytes): 228980
+	Minor (reclaiming a frame) page faults: 60402
+11. CalculateCellMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 2:48.90
+	Maximum resident set size (kbytes): 77064
+	Minor (reclaiming a frame) page faults: 17630
+12. CreateSparseCountMatrix
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:50.66
+	Maximum resident set size (kbytes): 903212
+	Minor (reclaiming a frame) page faults: 286670
+13. MergeSortedBamFiles
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:13.98
+	Maximum resident set size (kbytes): 1893828
+	Minor (reclaiming a frame) page faults: 475414
+14. MergeGeneMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.21
+	Maximum resident set size (kbytes): 78840
+	Minor (reclaiming a frame) page faults: 28307
+15. MergeCellMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:30.04
+	Maximum resident set size (kbytes): 526732
+	Minor (reclaiming a frame) page faults: 254847
+16. MergeCountFiles
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:03.23
+	Maximum resident set size (kbytes): 205676
+	Minor (reclaiming a frame) page faults: 53955
+==:4096
+1. FastqtoBam
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:32.52
+	Maximum resident set size (kbytes): 176828
+	Minor (reclaiming a frame) page faults: 44396
+2. AttachBarcodes
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:05.23
+	Maximum resident set size (kbytes): 4200424
+	Minor (reclaiming a frame) page faults: 1377901
+3. MergeSortBamFiles
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:30.48
+	Maximum resident set size (kbytes): 1891140
+	Minor (reclaiming a frame) page faults: 478131
+4. SplitBamByCellBarcode
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:51.41
+	Maximum resident set size (kbytes): 230988
+	Minor (reclaiming a frame) page faults: 62646
+5. StarAlignedBamSingleEnd
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:46.95
+	Maximum resident set size (kbytes): 13309648
+	Minor (reclaiming a frame) page faults: 4078422
+6. TagGenes
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 2:40.51
+	Maximum resident set size (kbytes): 2693252
+	Minor (reclaiming a frame) page faults: 720054
+7. SortAndCorrectUmiMarkDuplicates
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:18.28
+	Maximum resident set size (kbytes): 4075448
+	Minor (reclaiming a frame) page faults: 1057861
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 13:18.40
+	Maximum resident set size (kbytes): 5267736
+	Minor (reclaiming a frame) page faults: 1367410
+8. GeneSortBam
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 2:10.09
+	Maximum resident set size (kbytes): 5426284
+	Minor (reclaiming a frame) page faults: 1365966
+9. CellSortBam
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:01.28
+	Maximum resident set size (kbytes): 5431744
+	Minor (reclaiming a frame) page faults: 1365717
+10. CalculateGeneMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:40.21
+	Maximum resident set size (kbytes): 379972
+	Minor (reclaiming a frame) page faults: 114466
+11. CalculateCellMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 5:04.41
+	Maximum resident set size (kbytes): 77112
+	Minor (reclaiming a frame) page faults: 17744
+12. CreateSparseCountMatrix
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:14.13
+	Maximum resident set size (kbytes): 1544372
+	Minor (reclaiming a frame) page faults: 456345
+13. MergeSortedBamFiles
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:27.93
+	Maximum resident set size (kbytes): 1926000
+	Minor (reclaiming a frame) page faults: 483983
+14. MergeGeneMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.61
+	Maximum resident set size (kbytes): 79376
+	Minor (reclaiming a frame) page faults: 28239
+15. MergeCellMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:31.58
+	Maximum resident set size (kbytes): 596956
+	Minor (reclaiming a frame) page faults: 211074
+16. MergeCountFiles
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:04.69
+	Maximum resident set size (kbytes): 235772
+	Minor (reclaiming a frame) page faults: 63724
+==:8192
+1. FastqtoBam
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:06.97
+	Maximum resident set size (kbytes): 177016
+	Minor (reclaiming a frame) page faults: 44350
+2. AttachBarcodes
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 5:21.90
+	Maximum resident set size (kbytes): 4199612
+	Minor (reclaiming a frame) page faults: 1377842
+3. MergeSortBamFiles
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:01.17
+	Maximum resident set size (kbytes): 1902416
+	Minor (reclaiming a frame) page faults: 476433
+4. SplitBamByCellBarcode
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:39.29
+	Maximum resident set size (kbytes): 232300
+	Minor (reclaiming a frame) page faults: 62615
+5. StarAlignedBamSingleEnd
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 7:56.01
+	Maximum resident set size (kbytes): 13309648
+	Minor (reclaiming a frame) page faults: 4797265
+6. TagGenes
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 4:30.93
+	Maximum resident set size (kbytes): 2683136
+	Minor (reclaiming a frame) page faults: 711434
+7. SortAndCorrectUmiMarkDuplicates
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 2:34.97
+	Maximum resident set size (kbytes): 4529976
+	Minor (reclaiming a frame) page faults: 1177314
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 55:45.81
+	Maximum resident set size (kbytes): 6519820
+	Minor (reclaiming a frame) page faults: 1748622
+8. GeneSortBam
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 4:34.97
+	Maximum resident set size (kbytes): 10787964
+	Minor (reclaiming a frame) page faults: 2711859
+9. CellSortBam
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 6:07.03
+	Maximum resident set size (kbytes): 10789016
+	Minor (reclaiming a frame) page faults: 2716527
+10. CalculateGeneMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 7:31.25
+	Maximum resident set size (kbytes): 673896
+	Minor (reclaiming a frame) page faults: 299772
+11. CalculateCellMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 9:29.15
+	Maximum resident set size (kbytes): 77232
+	Minor (reclaiming a frame) page faults: 17722
+12. CreateSparseCountMatrix
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:57.52
+	Maximum resident set size (kbytes): 2859900
+	Minor (reclaiming a frame) page faults: 830969
+13. MergeSortedBamFiles
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:54.47
+	Maximum resident set size (kbytes): 2472648
+	Minor (reclaiming a frame) page faults: 620763
+14. MergeGeneMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.37
+	Maximum resident set size (kbytes): 79160
+	Minor (reclaiming a frame) page faults: 28318
+15. MergeCellMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:34.97
+	Maximum resident set size (kbytes): 579460
+	Minor (reclaiming a frame) page faults: 203876
+16. MergeCountFiles
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:07.01
+	Maximum resident set size (kbytes): 295176
+	Minor (reclaiming a frame) page faults: 79270
+==:16384
+1. FastqtoBam
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 2:10.09
+	Maximum resident set size (kbytes): 176168
+	Minor (reclaiming a frame) page faults: 45202
+2. AttachBarcodes
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 9:30.79
+	Maximum resident set size (kbytes): 4199384
+	Minor (reclaiming a frame) page faults: 1377797
+3. MergeSortBamFiles
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 2:00.36
+	Maximum resident set size (kbytes): 2459844
+	Minor (reclaiming a frame) page faults: 615827
+4. SplitBamByCellBarcode
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:18.71
+	Maximum resident set size (kbytes): 231488
+	Minor (reclaiming a frame) page faults: 62717
+5. StarAlignedBamSingleEnd
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 14:42.91
+	Maximum resident set size (kbytes): 13309644
+	Minor (reclaiming a frame) page faults: 6237652
+6. TagGenes
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 8:04.00
+	Maximum resident set size (kbytes): 2818800
+	Minor (reclaiming a frame) page faults: 743548
+7. SortAndCorrectUmiMarkDuplicates
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 4:31.81
+	Maximum resident set size (kbytes): 4298568
+	Minor (reclaiming a frame) page faults: 1134054
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 4:33:33
+	Maximum resident set size (kbytes): 7212180
+	Minor (reclaiming a frame) page faults: 2045409
+8. GeneSortBam
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:09.18
+	Maximum resident set size (kbytes): 21491724
+	Minor (reclaiming a frame) page faults: 5415142
+9. CellSortBam
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 12:16.11
+	Maximum resident set size (kbytes): 21506468
+	Minor (reclaiming a frame) page faults: 5413535
+10. CalculateGeneMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 15:01.11
+	Maximum resident set size (kbytes): 1261352
+	Minor (reclaiming a frame) page faults: 779776
+11. CalculateCellMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 18:20.83
+	Maximum resident set size (kbytes): 77364
+	Minor (reclaiming a frame) page faults: 17685
+12. CreateSparseCountMatrix
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:32.30
+	Maximum resident set size (kbytes): 5459404
+	Minor (reclaiming a frame) page faults: 1606071
+13. MergeSortedBamFiles
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:47.95
+	Maximum resident set size (kbytes): 2481152
+	Minor (reclaiming a frame) page faults: 634454
+14. MergeGeneMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.80
+	Maximum resident set size (kbytes): 79264
+	Minor (reclaiming a frame) page faults: 28357
+15. MergeCellMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:37.86
+	Maximum resident set size (kbytes): 629984
+	Minor (reclaiming a frame) page faults: 204002
+16. MergeCountFiles
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:11.25
+	Maximum resident set size (kbytes): 412532
+	Minor (reclaiming a frame) page faults: 114288
+==:32768
+1. FastqtoBam
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 4:24.64
+	Maximum resident set size (kbytes): 175828
+	Minor (reclaiming a frame) page faults: 45564
+2. AttachBarcodes
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 17:44.91
+	Maximum resident set size (kbytes): 4199312
+	Minor (reclaiming a frame) page faults: 1378204
+3. MergeSortBamFiles
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:54.50
+	Maximum resident set size (kbytes): 2486216
+	Minor (reclaiming a frame) page faults: 622687
+4. SplitBamByCellBarcode
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 6:39.48
+	Maximum resident set size (kbytes): 231164
+	Minor (reclaiming a frame) page faults: 62716
+5. StarAlignedBamSingleEnd
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 14:02.62
+	Maximum resident set size (kbytes): 13309648
+	Minor (reclaiming a frame) page faults: 6240024
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 14:07.87
+	Maximum resident set size (kbytes): 13309648
+	Minor (reclaiming a frame) page faults: 6240456
+6. TagGenes
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 8:05.99
+	Maximum resident set size (kbytes): 2740488
+	Minor (reclaiming a frame) page faults: 723453
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 7:39.56
+	Maximum resident set size (kbytes): 2661768
+	Minor (reclaiming a frame) page faults: 708443
+7. SortAndCorrectUmiMarkDuplicates
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 4:33.95
+	Maximum resident set size (kbytes): 4423008
+	Minor (reclaiming a frame) page faults: 1162023
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 4:37:07
+	Maximum resident set size (kbytes): 7023040
+	Minor (reclaiming a frame) page faults: 1961299
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 4:42.12
+	Maximum resident set size (kbytes): 4693224
+	Minor (reclaiming a frame) page faults: 1313756
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 4:33:26
+	Maximum resident set size (kbytes): 7057080
+	Minor (reclaiming a frame) page faults: 2003283
+8. GeneSortBam
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:44.77
+	Maximum resident set size (kbytes): 21484548
+	Minor (reclaiming a frame) page faults: 5401793
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:13.35
+	Maximum resident set size (kbytes): 21495648
+	Minor (reclaiming a frame) page faults: 5419673
+9. CellSortBam
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 12:19.03
+	Maximum resident set size (kbytes): 21506704
+	Minor (reclaiming a frame) page faults: 5412518
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 12:14.72
+	Maximum resident set size (kbytes): 21506496
+	Minor (reclaiming a frame) page faults: 5412973
+10. CalculateGeneMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 15:14.17
+	Maximum resident set size (kbytes): 1245896
+	Minor (reclaiming a frame) page faults: 822648
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 15:11.36
+	Maximum resident set size (kbytes): 1247700
+	Minor (reclaiming a frame) page faults: 807567
+11. CalculateCellMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 17:52.30
+	Maximum resident set size (kbytes): 77008
+	Minor (reclaiming a frame) page faults: 17784
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 17:39.12
+	Maximum resident set size (kbytes): 76732
+	Minor (reclaiming a frame) page faults: 17768
+12. CreateSparseCountMatrix
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:31.21
+	Maximum resident set size (kbytes): 5393556
+	Minor (reclaiming a frame) page faults: 1559844
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:21.86
+	Maximum resident set size (kbytes): 5393360
+	Minor (reclaiming a frame) page faults: 1569303
+13. MergeSortedBamFiles
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:29.36
+	Maximum resident set size (kbytes): 2480216
+	Minor (reclaiming a frame) page faults: 626763
+14. MergeGeneMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:02.42
+	Maximum resident set size (kbytes): 80896
+	Minor (reclaiming a frame) page faults: 29001
+15. MergeCellMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:38.74
+	Maximum resident set size (kbytes): 559656
+	Minor (reclaiming a frame) page faults: 224230
+16. MergeCountFiles
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:18.27
+	Maximum resident set size (kbytes): 643320
+	Minor (reclaiming a frame) page faults: 166878
+==:65536
+1. FastqtoBam
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 8:35.83
+	Maximum resident set size (kbytes): 174344
+	Minor (reclaiming a frame) page faults: 48109
+2. AttachBarcodes
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 34:07.67
+	Maximum resident set size (kbytes): 4199456
+	Minor (reclaiming a frame) page faults: 1377880
+3. MergeSortBamFiles
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 7:48.54
+	Maximum resident set size (kbytes): 2487468
+	Minor (reclaiming a frame) page faults: 624074
+4. SplitBamByCellBarcode
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 13:05.02
+	Maximum resident set size (kbytes): 232788
+	Minor (reclaiming a frame) page faults: 62744
+5. StarAlignedBamSingleEnd
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 18:43.32
+	Maximum resident set size (kbytes): 13309648
+	Minor (reclaiming a frame) page faults: 7204799
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 18:11.31
+	Maximum resident set size (kbytes): 13309652
+	Minor (reclaiming a frame) page faults: 7204828
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 17:27.13
+	Maximum resident set size (kbytes): 13309648
+	Minor (reclaiming a frame) page faults: 7204650
+6. TagGenes
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:23.76
+	Maximum resident set size (kbytes): 2818900
+	Minor (reclaiming a frame) page faults: 749720
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:22.09
+	Maximum resident set size (kbytes): 2826020
+	Minor (reclaiming a frame) page faults: 768222
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:14.34
+	Maximum resident set size (kbytes): 2802648
+	Minor (reclaiming a frame) page faults: 753574
+7. SortAndCorrectUmiMarkDuplicates
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 6:20.86
+	Maximum resident set size (kbytes): 4914780
+	Minor (reclaiming a frame) page faults: 1294456
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 9:39:50
+	Maximum resident set size (kbytes): 7141628
+	Minor (reclaiming a frame) page faults: 1983269
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 6:08.69
+	Maximum resident set size (kbytes): 4659312
+	Minor (reclaiming a frame) page faults: 1302340
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:14:05
+	Maximum resident set size (kbytes): 7469576
+	Minor (reclaiming a frame) page faults: 2054081
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 6:22.29
+	Maximum resident set size (kbytes): 5003888
+	Minor (reclaiming a frame) page faults: 1322442
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 9:30:29
+	Maximum resident set size (kbytes): 7295600
+	Minor (reclaiming a frame) page faults: 2108124
+8. GeneSortBam
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 11:04.52
+	Maximum resident set size (kbytes): 26233516
+	Minor (reclaiming a frame) page faults: 6616717
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 29:52.20
+	Maximum resident set size (kbytes): 26233900
+	Minor (reclaiming a frame) page faults: 6707143
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 19:49.26
+	Maximum resident set size (kbytes): 26230876
+	Minor (reclaiming a frame) page faults: 6673668
+9. CellSortBam
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:09.41
+	Maximum resident set size (kbytes): 76468
+	Minor (reclaiming a frame) page faults: 17398
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.11
+	Maximum resident set size (kbytes): 76220
+	Minor (reclaiming a frame) page faults: 17437
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.12
+	Maximum resident set size (kbytes): 77448
+	Minor (reclaiming a frame) page faults: 17423
+10. CalculateGeneMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.10
+	Maximum resident set size (kbytes): 76764
+	Minor (reclaiming a frame) page faults: 17547
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.07
+	Maximum resident set size (kbytes): 76788
+	Minor (reclaiming a frame) page faults: 17544
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.06
+	Maximum resident set size (kbytes): 76972
+	Minor (reclaiming a frame) page faults: 17563
+11. CalculateCellMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.11
+	Maximum resident set size (kbytes): 76368
+	Minor (reclaiming a frame) page faults: 17585
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.05
+	Maximum resident set size (kbytes): 76640
+	Minor (reclaiming a frame) page faults: 17703
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.10
+	Maximum resident set size (kbytes): 77456
+	Minor (reclaiming a frame) page faults: 17587
+12. CreateSparseCountMatrix
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:31.65
+	Maximum resident set size (kbytes): 80164
+	Minor (reclaiming a frame) page faults: 40372
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:27.02
+	Maximum resident set size (kbytes): 80548
+	Minor (reclaiming a frame) page faults: 20968
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:26.74
+	Maximum resident set size (kbytes): 79876
+	Minor (reclaiming a frame) page faults: 21539
+13. MergeSortedBamFiles
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 7:10.70
+	Maximum resident set size (kbytes): 2506196
+	Minor (reclaiming a frame) page faults: 629983
+14. MergeGeneMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.54
+	Maximum resident set size (kbytes): 76884
+	Minor (reclaiming a frame) page faults: 18007
+15. MergeCellMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.18
+	Maximum resident set size (kbytes): 77020
+	Minor (reclaiming a frame) page faults: 17938
+16. MergeCountFiles
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.17
+	Maximum resident set size (kbytes): 76224
+	Minor (reclaiming a frame) page faults: 18227
+==:131072
+1. FastqtoBam
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 16:51.88
+	Maximum resident set size (kbytes): 624656
+	Minor (reclaiming a frame) page faults: 164303
+2. AttachBarcodes
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:03:41
+	Maximum resident set size (kbytes): 4199756
+	Minor (reclaiming a frame) page faults: 1377972
+3. MergeSortBamFiles
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 15:20.74
+	Maximum resident set size (kbytes): 2556000
+	Minor (reclaiming a frame) page faults: 652721
+4. SplitBamByCellBarcode
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 25:37.31
+	Maximum resident set size (kbytes): 232276
+	Minor (reclaiming a frame) page faults: 62687
+5. StarAlignedBamSingleEnd
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 15:08.46
+	Maximum resident set size (kbytes): 13309644
+	Minor (reclaiming a frame) page faults: 7207445
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 13:41.44
+	Maximum resident set size (kbytes): 13309672
+	Minor (reclaiming a frame) page faults: 7208575
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 13:52.09
+	Maximum resident set size (kbytes): 13309672
+	Minor (reclaiming a frame) page faults: 7207830
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 14:05.09
+	Maximum resident set size (kbytes): 13309672
+	Minor (reclaiming a frame) page faults: 7207763
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 14:22.41
+	Maximum resident set size (kbytes): 13309672
+	Minor (reclaiming a frame) page faults: 7207649
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 13:54.99
+	Maximum resident set size (kbytes): 13309672
+	Minor (reclaiming a frame) page faults: 7207734
+6. TagGenes
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 9:40.34
+	Maximum resident set size (kbytes): 2850292
+	Minor (reclaiming a frame) page faults: 737401
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 9:35.07
+	Maximum resident set size (kbytes): 2851636
+	Minor (reclaiming a frame) page faults: 734734
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 9:55.95
+	Maximum resident set size (kbytes): 2884636
+	Minor (reclaiming a frame) page faults: 751385
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 9:42.31
+	Maximum resident set size (kbytes): 2877296
+	Minor (reclaiming a frame) page faults: 750577
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 9:36.20
+	Maximum resident set size (kbytes): 2872056
+	Minor (reclaiming a frame) page faults: 742173
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 9:36.06
+	Maximum resident set size (kbytes): 2869804
+	Minor (reclaiming a frame) page faults: 744790
+7. SortAndCorrectUmiMarkDuplicates
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 5:18.38
+	Maximum resident set size (kbytes): 5109636
+	Minor (reclaiming a frame) page faults: 1334961
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 8:32:38
+	Maximum resident set size (kbytes): 7443924
+	Minor (reclaiming a frame) page faults: 2054172
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 5:28.62
+	Maximum resident set size (kbytes): 5749016
+	Minor (reclaiming a frame) page faults: 1490163
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 7:51:43
+	Maximum resident set size (kbytes): 7533900
+	Minor (reclaiming a frame) page faults: 2117288
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 5:39.09
+	Maximum resident set size (kbytes): 5229632
+	Minor (reclaiming a frame) page faults: 1357298
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 8:12:10
+	Maximum resident set size (kbytes): 7418800
+	Minor (reclaiming a frame) page faults: 2019930
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 5:48.19
+	Maximum resident set size (kbytes): 5272204
+	Minor (reclaiming a frame) page faults: 1366468
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 8:17:04
+	Maximum resident set size (kbytes): 7364560
+	Minor (reclaiming a frame) page faults: 2046797
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 5:42.91
+	Maximum resident set size (kbytes): 5527788
+	Minor (reclaiming a frame) page faults: 1447916
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 8:13:44
+	Maximum resident set size (kbytes): 7515000
+	Minor (reclaiming a frame) page faults: 2119578
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 5:50.59
+	Maximum resident set size (kbytes): 5485628
+	Minor (reclaiming a frame) page faults: 1452383
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 8:53:45
+	Maximum resident set size (kbytes): 7422612
+	Minor (reclaiming a frame) page faults: 2036241
+8. GeneSortBam
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 14:52.11
+	Maximum resident set size (kbytes): 28674068
+	Minor (reclaiming a frame) page faults: 7224195
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 14:03.23
+	Maximum resident set size (kbytes): 28680792
+	Minor (reclaiming a frame) page faults: 7230112
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 13:53.66
+	Maximum resident set size (kbytes): 28660968
+	Minor (reclaiming a frame) page faults: 7205585
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 13:53.79
+	Maximum resident set size (kbytes): 28674672
+	Minor (reclaiming a frame) page faults: 7225482
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 13:57.88
+	Maximum resident set size (kbytes): 28675524
+	Minor (reclaiming a frame) page faults: 7219479
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 13:30.33
+	Maximum resident set size (kbytes): 28678772
+	Minor (reclaiming a frame) page faults: 7228008
+9. CellSortBam
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 14:38.41
+	Maximum resident set size (kbytes): 28684296
+	Minor (reclaiming a frame) page faults: 7213716
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 15:04.86
+	Maximum resident set size (kbytes): 28692768
+	Minor (reclaiming a frame) page faults: 7217545
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 14:39.47
+	Maximum resident set size (kbytes): 28688692
+	Minor (reclaiming a frame) page faults: 7221710
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 14:45.46
+	Maximum resident set size (kbytes): 28688856
+	Minor (reclaiming a frame) page faults: 7232579
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 14:45.77
+	Maximum resident set size (kbytes): 28682628
+	Minor (reclaiming a frame) page faults: 7219214
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 14:45.50
+	Maximum resident set size (kbytes): 28686052
+	Minor (reclaiming a frame) page faults: 7226892
+10. CalculateGeneMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 20:02.49
+	Maximum resident set size (kbytes): 1568424
+	Minor (reclaiming a frame) page faults: 1361094
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 19:58.91
+	Maximum resident set size (kbytes): 1570544
+	Minor (reclaiming a frame) page faults: 1354461
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 19:46.18
+	Maximum resident set size (kbytes): 1568548
+	Minor (reclaiming a frame) page faults: 1354662
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 19:55.62
+	Maximum resident set size (kbytes): 1568336
+	Minor (reclaiming a frame) page faults: 1369135
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 19:50.40
+	Maximum resident set size (kbytes): 1568508
+	Minor (reclaiming a frame) page faults: 1358427
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 20:05.73
+	Maximum resident set size (kbytes): 1568876
+	Minor (reclaiming a frame) page faults: 1359680
+11. CalculateCellMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 22:31.75
+	Maximum resident set size (kbytes): 77276
+	Minor (reclaiming a frame) page faults: 17326
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 22:29.41
+	Maximum resident set size (kbytes): 77272
+	Minor (reclaiming a frame) page faults: 17441
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 22:31.03
+	Maximum resident set size (kbytes): 77228
+	Minor (reclaiming a frame) page faults: 17507
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 22:41.76
+	Maximum resident set size (kbytes): 77076
+	Minor (reclaiming a frame) page faults: 17600
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 22:41.98
+	Maximum resident set size (kbytes): 76888
+	Minor (reclaiming a frame) page faults: 17397
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 22:42.04
+	Maximum resident set size (kbytes): 76908
+	Minor (reclaiming a frame) page faults: 17454
+12. CreateSparseCountMatrix
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 4:34.46
+	Maximum resident set size (kbytes): 6925896
+	Minor (reclaiming a frame) page faults: 1970520
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 4:18.44
+	Maximum resident set size (kbytes): 6926448
+	Minor (reclaiming a frame) page faults: 1988152
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 4:15.80
+	Maximum resident set size (kbytes): 6927772
+	Minor (reclaiming a frame) page faults: 1987800
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 4:15.72
+	Maximum resident set size (kbytes): 6927336
+	Minor (reclaiming a frame) page faults: 1991358
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 4:13.03
+	Maximum resident set size (kbytes): 6932808
+	Minor (reclaiming a frame) page faults: 1987368
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 4:18.58
+	Maximum resident set size (kbytes): 6927060
+	Minor (reclaiming a frame) page faults: 1993357
+13. MergeSortedBamFiles
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 13:20.20
+	Maximum resident set size (kbytes): 10653884
+	Minor (reclaiming a frame) page faults: 2695832
+14. MergeGeneMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:03.87
+	Maximum resident set size (kbytes): 81940
+	Minor (reclaiming a frame) page faults: 30330
+15. MergeCellMetrics
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:49.56
+	Maximum resident set size (kbytes): 529620
+	Minor (reclaiming a frame) page faults: 246611
+16. MergeCountFiles
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:50.50
+	Maximum resident set size (kbytes): 1885608
+	Minor (reclaiming a frame) page faults: 483040
+==:262144
+1. FastqtoBam
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 33:25.67
+	Maximum resident set size (kbytes): 610072
+	Minor (reclaiming a frame) page faults: 159990
+2. AttachBarcodes
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 2:11:13
+	Maximum resident set size (kbytes): 4199924
+	Minor (reclaiming a frame) page faults: 1378099
+3. MergeSortBamFiles
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 31:25.16
+	Maximum resident set size (kbytes): 2554512
+	Minor (reclaiming a frame) page faults: 653220
+4. SplitBamByCellBarcode
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 53:22.50
+	Maximum resident set size (kbytes): 232788
+	Minor (reclaiming a frame) page faults: 62709
+5. StarAlignedBamSingleEnd
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 13:25.28
+	Maximum resident set size (kbytes): 13309672
+	Minor (reclaiming a frame) page faults: 7212521
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 12:53.86
+	Maximum resident set size (kbytes): 13309672
+	Minor (reclaiming a frame) page faults: 7212429
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 12:40.37
+	Maximum resident set size (kbytes): 13309672
+	Minor (reclaiming a frame) page faults: 7212814
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 13:05.52
+	Maximum resident set size (kbytes): 13309672
+	Minor (reclaiming a frame) page faults: 7212325
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 13:09.53
+	Maximum resident set size (kbytes): 13309672
+	Minor (reclaiming a frame) page faults: 7212979
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 12:58.67
+	Maximum resident set size (kbytes): 13309672
+	Minor (reclaiming a frame) page faults: 7212615
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 13:03.52
+	Maximum resident set size (kbytes): 13309672
+	Minor (reclaiming a frame) page faults: 7212956
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 12:51.19
+	Maximum resident set size (kbytes): 13309672
+	Minor (reclaiming a frame) page faults: 7212946
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 13:02.60
+	Maximum resident set size (kbytes): 13309672
+	Minor (reclaiming a frame) page faults: 7212779
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 13:01.01
+	Maximum resident set size (kbytes): 13309672
+	Minor (reclaiming a frame) page faults: 7212660
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 13:13.50
+	Maximum resident set size (kbytes): 13309672
+	Minor (reclaiming a frame) page faults: 7212718
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 13:12.11
+	Maximum resident set size (kbytes): 13309672
+	Minor (reclaiming a frame) page faults: 7212555
+6. TagGenes
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 9:29.60
+	Maximum resident set size (kbytes): 2868644
+	Minor (reclaiming a frame) page faults: 744211
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 9:25.25
+	Maximum resident set size (kbytes): 2869212
+	Minor (reclaiming a frame) page faults: 746554
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 9:24.48
+	Maximum resident set size (kbytes): 2875064
+	Minor (reclaiming a frame) page faults: 748964
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 9:31.34
+	Maximum resident set size (kbytes): 2863304
+	Minor (reclaiming a frame) page faults: 736314
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 9:23.63
+	Maximum resident set size (kbytes): 2878792
+	Minor (reclaiming a frame) page faults: 752276
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 9:35.98
+	Maximum resident set size (kbytes): 2865328
+	Minor (reclaiming a frame) page faults: 739331
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 9:25.38
+	Maximum resident set size (kbytes): 2887824
+	Minor (reclaiming a frame) page faults: 750918
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 9:29.53
+	Maximum resident set size (kbytes): 2860844
+	Minor (reclaiming a frame) page faults: 746438
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 9:21.67
+	Maximum resident set size (kbytes): 2872668
+	Minor (reclaiming a frame) page faults: 744536
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 9:34.06
+	Maximum resident set size (kbytes): 2876160
+	Minor (reclaiming a frame) page faults: 743649
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 9:22.91
+	Maximum resident set size (kbytes): 2906440
+	Minor (reclaiming a frame) page faults: 757444
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 9:27.95
+	Maximum resident set size (kbytes): 2874348
+	Minor (reclaiming a frame) page faults: 748265
+7. SortAndCorrectUmiMarkDuplicates
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 5:11.41
+	Maximum resident set size (kbytes): 5223540
+	Minor (reclaiming a frame) page faults: 1365271
