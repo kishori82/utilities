@@ -154,6 +154,7 @@ def main(args):
     refrecords = list(SeqIO.parse(args.refgenome, "fasta"))
     refseq = str(refrecords[0].seq)
     barcodes = read_barcodes(args.wlist)
+    nbcodes = len(barcodes)
 
 
     gtfs = read_gtf_file(args.refgtf)
@@ -173,12 +174,13 @@ def main(args):
 
     # sample the reads
     gene_samples = random.choices(population=genes, weights=weights, k=args.nreads)
+    print(len(gene_samples))
 
 
     with open(args.output_prefix + "_R1_001.fastq", 'w') as fR1, open(args.output_prefix + "_R2_001.fastq", 'w')  as fR2, open(args.output_prefix + "_I1_001.fastq", 'w') as fI1 :
         for i, gene_id in enumerate(gene_samples): 
           fR1.write(create_read_name(i,'1') +'\n')
-          fR1.write(barcodes[i]+randnuc(10) +'\n')
+          fR1.write(barcodes[i%nbcodes]+randnuc(10) +'\n')
           fR1.write('+' +'\n')
           fR1.write(SCORE[0:26] +'\n')
     
