@@ -49,7 +49,7 @@ def main():
         if args.cpu:
            cputimeres=cputime.search(line)
            if cputimeres:
-              print(samplesize, stepname,  'CPU', line)
+              #print(samplesize, stepname,  'CPU', line)
               hourpattres=hourpatt.search(line)
               if hourpattres:
                  #print('HR', hourpattres.group(1), hourpattres.group(2), hourpattres.group(3))
@@ -70,7 +70,8 @@ def main():
         if len(stats[samplesize])==16:
           sys.stdout.write(samplesize)
           for step in steps:
-             sys.stdout.write('\t{}'.format( sum(stats[samplesize][step])/n ))
+             #sys.stdout.write('\t{}'.format( sum(stats[samplesize][step])/n ))
+             sys.stdout.write('\t{}'.format( max(stats[samplesize][step]) ))
           sys.stdout.write('\n')
         
 
